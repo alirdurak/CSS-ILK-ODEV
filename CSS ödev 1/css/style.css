@@ -1,0 +1,21 @@
+/*********************************Layout *******************************************************/
+body{background-color:#DFDFDE;
+     list-style-position:inside;
+      text-align: center;} 
+header {color: #F56D91;
+    font-size:60px; 
+    text-align:center;}
+nav{ font-size: 
+    30px; ;}
+h1, h2{color:firebrick;
+    font-size:25px;}
+ul{list-style-type: none;}
+.large-font{font-size: 25px;}
+article{font-size: 18px;
+    color:gray;}
+table{margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    color:darkblue;
+    line-height: 1.6;
+    background-color:pink ;}
